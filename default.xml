@@ -25,7 +25,10 @@
            fetch="https://gitlab.com/rr-os"
            revision="Q"
 	       review="" />
-
+	
+  <remote  name="benya"
+           fetch="https://github.com/benya9669"
+           revision="Q" />
 
   <remote  name="vd"
            fetch="https://github.com/varund7726"
